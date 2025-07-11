@@ -14,5 +14,7 @@ def rolling_adf(series, window=100):
 
     return series.rolling(window).apply(adf_calc, raw=True)
 
+print("adf calc finsh")
+
 
 
