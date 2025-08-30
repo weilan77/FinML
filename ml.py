@@ -17,5 +17,5 @@ def rolling_adf(series, window=100):
 print("adf calc finsh")
 print("End")
 
-print("sig1")
+print("sig2")
 
